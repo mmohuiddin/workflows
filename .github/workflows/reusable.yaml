@@ -8,7 +8,7 @@ on:
         default: 'Mo'
         required: false
     secrets:
-      access-toke:
+      access-token:
         description: 'Secret descripotion'
         required: true
 jobs:
