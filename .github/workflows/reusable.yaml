@@ -10,7 +10,7 @@ on:
     secrets:
       access-token:
         description: 'Secret descripotion'
-        required: true
+        required: false
 jobs:
   checkout:
     runs-on: ubuntu-latest
